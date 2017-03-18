@@ -5,3 +5,13 @@ background: url("pencils.jpg") no-repeat center center fixed;
   -o-background-size: cover;
   background-size: cover;     
       }
+	  
+.primary-text {
+font-family:Raleway;
+background-color: #BFC9CA;
+text-align: center;
+width: 400px;
+margin: auto;
+border-radius: 10px;
+padding: 25px;
+}
